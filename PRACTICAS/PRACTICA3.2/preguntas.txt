@@ -1,0 +1,2 @@
+make_link_copy es un fichero regular, su contenido siendo 
+el contenido del fichero apuntado por el enlace simbólico.
